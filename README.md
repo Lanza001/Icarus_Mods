@@ -1,2 +1,2 @@
 # icarus_mods
-Icarus Mods
+Mods for Icarus Game
