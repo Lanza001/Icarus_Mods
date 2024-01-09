@@ -6,10 +6,10 @@
             "version": "1.0",
             "compatibility": "All",
             "description": "Adds some ArmourStats and change all the values of it. The Suit has no crafting costs at the Orbital Workshop.",
-            "imageURL": "https://github.com/Lanza001/icarus_mods/Envirosuit_Larkell_Bravo_P.png",
+            "imageURL": "https://github.com/Lanza001/Icarus_Mods/Envirosuit_Larkell_Bravo_P.png",
             "readmeURL": "",
             "files": {
-                "exmodz": "https://github.com/Lanza001/icarus_mods/Envirosuit_Larkell_Bravo.EXMODZ"
+                "pak": "https://github.com/Lanza001/Icarus_Mods/Envirosuit_Larkell_Bravo.pak"
             }
         }
     ]
